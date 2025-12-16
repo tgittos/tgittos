@@ -31,3 +31,8 @@ Specifically, I'm fascinated with creating rich experience using nothing but bit
 - Golang in local dev tooling, and web tooling
 - C++ in computer graphics, game development, and agentic AI
 - Rust in computer graphics
+
+# Controversial
+
+- Vim
+- spaces
