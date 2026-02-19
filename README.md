@@ -21,6 +21,7 @@ Specifically, I'm fascinated with creating rich experience using nothing but bit
 
 # Professional Experience
 
+- 20+ years of Javascript in all platforms and flavors (Node/Typescript inclusive)
 - 14 years of Ruby on Rails in local IT tooling, telehealth, and insurance industries
 - 6 years of C# in e-commerce and public safety/UAVs
 - 1 year of Clojure in IT tooling
